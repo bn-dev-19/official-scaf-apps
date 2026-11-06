@@ -6,6 +6,7 @@
 
 Download a kit archive directly:
 
+- [0.4.0-beta.5](https://github.com/bn-dev-19/official-scaf-apps/raw/main/kits/scaf-kit-0.4.0-beta.5.zip)
 - [0.4.0-beta.4](https://github.com/bn-dev-19/official-scaf-apps/raw/main/kits/scaf-kit-0.4.0-beta.4.zip)
 - [0.4.0-beta.3](https://github.com/bn-dev-19/official-scaf-apps/raw/main/kits/scaf-kit-0.4.0-beta.3.zip)
 - [0.4.0-beta.2](https://github.com/bn-dev-19/official-scaf-apps/raw/main/kits/scaf-kit-0.4.0-beta.2.zip)
